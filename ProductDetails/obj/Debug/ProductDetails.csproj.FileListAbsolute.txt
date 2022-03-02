@@ -1,0 +1,8 @@
+E:\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+E:\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+E:\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+E:\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.AssemblyReference.cache
+E:\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.SuggestedBindingRedirects.cache
+E:\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.CoreCompileInputs.cache
+E:\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+E:\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
